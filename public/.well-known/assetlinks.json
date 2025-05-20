@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "edgesop",
+      "package_name": "com.contact.rekadia.edgesop2025",
+      "sha256_cert_fingerprints": [
+        "89:EA:3D:FE:B2:FC:E0:43:3B:9C:A9:BF:C6:84:05:3D:AE:33:4A:DF:54:C7:D0:A2:A3:DE:E8:DF:80:B5:21:06"
+      ]
+    }
+  }
+]
